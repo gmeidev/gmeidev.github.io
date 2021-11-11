@@ -2,6 +2,6 @@ title: Homepage of Guobiao Mei
 author: Guobiao Mei
 description: Computer Scientist, Software Engineer and Manager
 google_analytics: G-2R4HQKYW40
-theme: "minima"
-email: "contact@gmei.dev"
-linkedin_username: "guobiao"
+email: contact@gmei.dev
+linkedin_username: guobiao
+theme: jekyll-theme-modernist
