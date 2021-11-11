@@ -24,8 +24,9 @@ Manage a distributed team (*Cambridge, MA* and *Los Angeles, CA*) that owns data
 #### Senior Software Engineer (April 2011 - October 2016)
 *Cambridge, Massachusetts, United States*
 
-* Senior SWE on Flight Search backend team, developing systems that power google.com/flights.
-* Senior SWE and TL of the search analysis team, developing libraries, tools, and infrastructure for analyzing Google users' search activity data.
+Senior SWE on Flight Search backend team, developing systems that power google.com/flights.
+
+Senior SWE and TL of the search analysis team, developing libraries, tools, and infrastructure for analyzing Google users' search activity data.
 
 #### Software Engineer (October 2008 - April 2011)
 *Los Angeles, California, United States*
@@ -36,7 +37,7 @@ SWE and later TL of a team in the ads organization. Worked on developing backend
 #### Software Engineer Intern (June 2007 - September 2007)
 *Mountain View, California, United States*
 
-* Worked in the AdSpam team as an intern. Designed and implemented a spam detector based on modeling user queries with hidden Markov models.
+Worked in the AdSpam team as an intern. Designed and implemented a spam detector based on modeling user queries with hidden Markov models.
 
 ## Education
 ### University of California, Riverside, CA (September 2003 - June 2008)
