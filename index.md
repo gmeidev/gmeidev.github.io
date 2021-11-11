@@ -5,7 +5,7 @@ Staff Software Engineer / Tech Lead Manager at Google
 *Greater Boston Area*
 
 ## Contact
-* Email: contact@gmei.dev
+* Email: [contact@gmei.dev](mailto:contact@gmei.dev)
 * Website: [gmei.dev](http://gmei.dev/)
 * [LinkedIn](https://www.linkedin.com/in/guobiao/)
 
