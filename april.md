@@ -1,6 +1,8 @@
 # April Mei June July 🌿
 
-## 🌧”Those who believe only sunshine brings happiness have never danced in the rain.” 🌧
+### 🌧”Those who believe only sunshine brings happiness have never danced in the rain.” 🌧
+
+Talk to me at [april@gmei.dev](mailto:april@gmei.dev)!
 
 ### 🌸 The Facts 🌸
 ```
