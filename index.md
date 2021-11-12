@@ -49,3 +49,6 @@ Obtained Ph.D. degree in computer science, with Dean’s fellowship award. Resea
 *Bachelor’s Degree, Computer Science*
 
 Graduated from Chu Kochen Honors College.
+
+---
+Check out my daughter **April**'s [home page](/april)!
