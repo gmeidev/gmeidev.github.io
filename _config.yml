@@ -5,3 +5,6 @@ google_analytics: G-2R4HQKYW40
 email: contact@gmei.dev
 linkedin_username: guobiao
 theme: jekyll-theme-hacker
+exclude:
+  - CNAME
+  - README.md
