@@ -51,4 +51,4 @@ Obtained Ph.D. degree in computer science, with Dean’s fellowship award. Resea
 Graduated from Chu Kochen Honors College.
 
 ---
-Check out my daughter **April**'s [home page](/april)!
+Check out my daughter [April's homepage](/april), or my son [Aiden's](/aiden).
