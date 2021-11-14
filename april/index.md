@@ -35,4 +35,4 @@ See you, 🌙
 💌 April 
 
 ---
-Visit my brother [Aiden's](/aiden), or go back to [my dad's](/index)?
+Visit my brother [Aiden's](/aiden), or go back to [my dad's](/)?
