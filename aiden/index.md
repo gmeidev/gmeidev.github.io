@@ -1,8 +1,8 @@
+# Aiden Mei 🏀
+
 Hi my name is Aiden 😄 
 
 I’m 5 ½ years old. I’m in kindergarten. 
-
-My birthday is 1/26. 
 
 I like to eat pasta. 
 
