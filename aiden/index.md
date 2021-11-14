@@ -12,4 +12,4 @@ I like to play with pattern blocks in school.
 
 I hate peppers and tomatoes. 🫑🍅 
 
-I have a sister named April. Do you want to go to [her page](/april)? You can also go back to [my dad’s](/index).
+I have a sister named April. Do you want to go to [her page](/april)? You can also go back to [my dad’s](/).
