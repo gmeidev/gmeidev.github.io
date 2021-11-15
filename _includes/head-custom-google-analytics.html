@@ -1,9 +1,10 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
+{% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2R4HQKYW40"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2R4HQKYW40');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
+{% endif %}
