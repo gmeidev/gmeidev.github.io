@@ -51,7 +51,8 @@ Obtained Ph.D. degree in computer science, with Dean’s fellowship award. Resea
 Graduated from Chu Kochen Honors College.
 
 ## Publications
-| Guobiao Mei (2008) | "**Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images**" | *Doctoral dissertation*, University of California at Riverside | [![PDF](/assetts/images/pdf.gif)](/assetts/papers/dissertation.pdf) |
+| Guobiao Mei (2008) | **Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images** | *Doctoral dissertation*, University of California at Riverside | [![PDF](/assets/images/pdf.gif)](/assets/papers/dissertation.pdf) |
+|---|---|---|---|
 
 ---
 Check out my daughter [April's homepage](/april), or my son [Aiden's](/aiden).
