@@ -55,8 +55,8 @@ Graduated from Chu Kochen Honors College.
 | Author(s) | Year | Title | Conference / Journal | Bibtex / Abstract | Download |
 | --- | --- | --- | --- | --- | --- |
 | Guobiao Mei | 2008 | **Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images** | _Doctoral dissertation_, University of California at Riverside | [bib/abs](/assets/papers/Mei08) | [![PDF](/assets/images/pdf.gif)](/assets/papers/dissertation.pdf) |
-| Guobiao Mei and Christian R. Shelton | 2008 | **Unsupervised Image Embedding Using Nonparametric Statistics** | _Proceedings of the Nineteenth International Conference on Pattern Recognition_ (doi: 10.1109/ICPR.2008.4761051) | [bib/abs](/assets/papers/MeiShe08 | [![PDF](/assets/images/pdf.gif)](/assets/papers/icpr08.pdf) |
-| Guobiao Mei and Christian R. Shelton | 2006 | **Visualization of Collaborative Data** | _Proceedings of the Twenty-Second International Conference on Uncertainty in Artificial Intelligence_ (pp. 341-348) | [bib/abs](/assets/papers/MeiShe06 | [![PDF](/assets/images/pdf.gif)](/assets/papers/covis.pdf) |
+| Guobiao Mei and Christian R. Shelton | 2008 | **Unsupervised Image Embedding Using Nonparametric Statistics** | _Proceedings of the Nineteenth International Conference on Pattern Recognition_ (doi: 10.1109/ICPR.2008.4761051) | [bib/abs](/assets/papers/MeiShe08) | [![PDF](/assets/images/pdf.gif)](/assets/papers/icpr08.pdf) |
+| Guobiao Mei and Christian R. Shelton | 2006 | **Visualization of Collaborative Data** | _Proceedings of the Twenty-Second International Conference on Uncertainty in Artificial Intelligence_ (pp. 341-348) | [bib/abs](/assets/papers/MeiShe06) | [![PDF](/assets/images/pdf.gif)](/assets/papers/covis.pdf) |
 | Titus Winters, Christian Shelton, Tom Payne and Guobiao Mei | 2005 | **Topic Extraction from Item-Level Grades** | _AAAI-05 Workshop on Educational Data Mining_ | | [![PDF](/assets/images/pdf.gif)](/assets/papers/aaai05-w2.pdf) |
 
 ---
