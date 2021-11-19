@@ -51,8 +51,13 @@ Obtained Ph.D. degree in computer science, with Dean’s fellowship award. Resea
 Graduated from Chu Kochen Honors College.
 
 ## Publications
-| Guobiao Mei (2008) | **Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images** | *Doctoral dissertation*, University of California at Riverside | [![PDF](/assets/images/pdf.gif)](/assets/papers/dissertation.pdf) |
-|---|---|---|---|
+
+| Author(s) | Year | Title | Conference / Journal | Download |
+| --- | --- | --- | --- | --- |
+| Guobiao Mei | 2008 | **Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images** | _Doctoral dissertation_, University of California at Riverside | [![PDF](/assets/images/pdf.gif)](/assets/papers/dissertation.pdf) |
+| Guobiao Mei and Christian R. Shelton | 2008 | **Unsupervised Image Embedding Using Nonparametric Statistics** | _Proceedings of the Nineteenth International Conference on Pattern Recognition_ (doi: 10.1109/ICPR.2008.4761051) | [![PDF](/assets/images/pdf.gif)](/assets/papers/icpr08.pdf) |
+| Guobiao Mei and Christian R. Shelton | 2006 | **Visualization of Collaborative Data** | _Proceedings of the Twenty-Second International Conference on Uncertainty in Artificial Intelligence_ (pp. 341-348) | [![PDF](/assets/images/pdf.gif)](/assets/papers/covis.pdf) |
+| Titus Winters, Christian Shelton, Tom Payne and Guobiao Mei | 2005 | **Topic Extraction from Item-Level Grades** | _AAAI-05 Workshop on Educational Data Mining_ | [![PDF](/assets/images/pdf.gif)](/assets/papers/aaai05-w2.pdf) |
 
 ---
 Check out my daughter [April's homepage](/april), or my son [Aiden's](/aiden).
