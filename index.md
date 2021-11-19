@@ -52,7 +52,7 @@ Graduated from Chu Kochen Honors College.
 
 ## Publications
 
-| Author(s) | Year | Title | Conference / Journal | Bibtex / Abstract | Download |
+| Author(s) | Year | Title | Publisher | Bibtex / Abstract | Download |
 | --- | --- | --- | --- | --- | --- |
 | Guobiao Mei | 2008 | **Dimensionality Reduction Algorithms With Applications to Collaborative Data and Images** | _Doctoral dissertation_, University of California at Riverside | [bib/abs](/assets/papers/Mei08) | [![PDF](/assets/images/pdf.gif)](/assets/papers/dissertation.pdf) |
 | Guobiao Mei and Christian R. Shelton | 2008 | **Unsupervised Image Embedding Using Nonparametric Statistics** | _Proceedings of the Nineteenth International Conference on Pattern Recognition_ (doi: 10.1109/ICPR.2008.4761051) | [bib/abs](/assets/papers/MeiShe08) | [![PDF](/assets/images/pdf.gif)](/assets/papers/icpr08.pdf) |
