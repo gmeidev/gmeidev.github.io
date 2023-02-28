@@ -4,6 +4,8 @@ Staff Software Engineer / Tech Lead Manager at Google
 
 *Greater Boston Area*
 
+I am an amateur radio operator in Newton, Massachusetts. My FCC issued call sign is [N1UI](/n1ui).
+
 ## Contact
 * Email: [contact@gmei.dev](mailto:contact@gmei.dev)
 * Website: [gmei.dev](http://gmei.dev/)
