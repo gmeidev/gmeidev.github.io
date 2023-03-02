@@ -1,5 +1,9 @@
-# N1UI
+# N1UI On Air
 
-Guobiao Mei is an amateur radio operator in Newton, Massachusetts, USA. His FCC issued call sign is **N1UI**.
+![N1UI logo](/assets/images/n1ui-logo.webp)
 
-[QRZ](https://www.qrz.com/db/n1ui)
+Guobiao Mei is an amateur radio operator in Newton, Massachusetts. His FCC issued call sign is **N1UI**.
+
+His station's grid location is [FN42jh](https://www.levinecentral.com/ham/grid_square.php?Grid=FN42jh).
+
+Here is the [QRZ](https://www.qrz.com/db/n1ui) profile page.
