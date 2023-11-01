@@ -1,6 +1,6 @@
 # Guobiao Mei
 
-Staff Software Engineer / Tech Lead Manager at Google
+Senior Engineering Manager at Google
 
 *Greater Boston Area*
 
@@ -18,10 +18,15 @@ I am an amateur radio operator in Newton, Massachusetts. My FCC issued call sign
 
 ## Experience
 ### Google (October 2008 - Present)
-#### Staff Software Engineer / Tech Lead Manager (October 2016 - Present)
+#### Senior Engineering Manager (October 2023 - Present)
 *Cambridge, Massachusetts, United States*
 
-Manage a distributed team (*Cambridge, MA* and *Los Angeles, CA*) that owns data pipelines to transform Google's enormous search user activity logs into ranking signals.
+Manage teams that own data pipelines and data products to transform Google's enormous search user activity logs into ranking signals.
+
+#### Staff Software Engineer (October 2016 - October 2023)
+*Cambridge, Massachusetts, United States*
+
+Tech lead and manager of a distributed team (*Cambridge, MA* and *Los Angeles, CA*) that owns data pipelines to transform Google's enormous search user activity logs into ranking signals.
 
 #### Senior Software Engineer (April 2011 - October 2016)
 *Cambridge, Massachusetts, United States*
