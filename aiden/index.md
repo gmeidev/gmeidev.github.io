@@ -2,7 +2,7 @@
 
 Hi my name is Aiden 😄 
 
-I’m 5 ½ years old. I’m in kindergarten. 
+I’m 7 ½ years old. I’m in 2nd grade. 
 
 I like to eat pasta. 
 
