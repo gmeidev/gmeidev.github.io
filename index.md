@@ -4,12 +4,13 @@ Senior Engineering Manager at Google
 
 *Greater Boston Area*
 
-I am an amateur radio operator in Newton, Massachusetts. My FCC issued call sign is [N1UI](/n1ui).
-
 ## Contact
 * Email: [contact@gmei.dev](mailto:contact@gmei.dev)
 * Website: [gmei.dev](http://gmei.dev/)
 * [LinkedIn](https://www.linkedin.com/in/guobiao/)
+* On air: FCC Call Sign [N1UI](/n1ui)
+  * I am an amateur radio operator, and my QTH is in [Newton, Massachusetts](https://www.levinecentral.com/ham/grid_square.php?Grid=FN42jh).
+  * You can sometimes find me on [HF radio waves](https://en.wikipedia.org/wiki/High_frequency), usually via [SSB mode](https://en.wikipedia.org/wiki/Single-sideband_modulation).
 
 ## Summary
 * Machine learning research background (PhD degree in machine learning).
