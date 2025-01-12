@@ -15,7 +15,7 @@ Senior Staff Software Engineer at Google
 ## Summary
 * Machine learning research background (PhD degree in machine learning).
 * Hands on software engineering experience in various products and systems.
-* Years of experience in technical leading and people management of engineering teams.
+* Years of experience in technical leadership and people management of engineering teams.
 
 ## Experience
 ### Google (October 2008 - Present)
@@ -27,7 +27,7 @@ Technical Lead and Manager of teams that own data pipelines and data products to
 #### Staff Software Engineer (October 2016 - October 2023)
 *Cambridge, Massachusetts, United States*
 
-Tech lead and manager of a distributed team (*Cambridge, MA* and *Los Angeles, CA*) that owns data pipelines to transform Google's enormous search user activity logs into ranking signals.
+Technical Lead and Manager of a distributed team (*Cambridge, MA* and *Los Angeles, CA*) that owns data pipelines to transform Google's enormous search user activity logs into ranking signals.
 
 #### Senior Software Engineer (April 2011 - October 2016)
 *Cambridge, Massachusetts, United States*
