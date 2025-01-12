@@ -1,6 +1,6 @@
 # Guobiao Mei
 
-Senior Engineering Manager at Google
+Senior Staff Software Engineer at Google
 
 *Greater Boston Area*
 
@@ -19,10 +19,10 @@ Senior Engineering Manager at Google
 
 ## Experience
 ### Google (October 2008 - Present)
-#### Senior Engineering Manager (October 2023 - Present)
+#### Senior Staff Software Engineer (October 2023 - Present)
 *Cambridge, Massachusetts, United States*
 
-Manage teams that own data pipelines and data products to transform Google's enormous search user activity logs into ranking signals.
+Technical Lead and Manager of teams that own data pipelines and data products to transform Google's enormous search user activity logs into ranking signals.
 
 #### Staff Software Engineer (October 2016 - October 2023)
 *Cambridge, Massachusetts, United States*
